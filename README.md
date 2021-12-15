@@ -1,4 +1,4 @@
-# Step-To-Computer-Vision
+# Fashion Mnist : The Hello World Of Computer Vision
 This will be a sequence of repositories. A step towards perfecting the skills in Deep Learning and Computer Vision. Beginning from the fundamental CNN Architectures and driving towards the GANs, AutoEncoders, and Attention-CNNs..
 
 Starting with standard imports like importing Tensorflow, NumPy, and Matplotlib. 
