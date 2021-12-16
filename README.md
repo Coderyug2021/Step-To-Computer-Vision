@@ -17,3 +17,15 @@ This architecture is a simple CNN consisting only of Convolutional Layers(plus p
 4. Using the best model(so far) to make predictions and visualize them, did something amazing to get insights into the model's performance.
 
 5. Once again compared the model on the ground of Precision, Recall and F1 Score. This was a game-changer. Have a look at the code.
+
+# CNN Architectures : Analysing And Making Different Models
+
+Discussed the most popular and state-of-the-Art(SoTA) Computer Vision models i.e CNN Architecture. Discussed everything from the insights of the Architecture to the important judgment we can make from the model and finally coded them from scratch with the CIFAR10 dataset. The list encloses : 
+
+1. LeNet
+2. AlexNet
+3. ZF-Net
+4. GoogLeNet
+5. ResNet
+6. Xception
+7. SENet
