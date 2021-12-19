@@ -37,3 +37,12 @@ Used some of the well-known models like the ResNet and Xception. These models we
 1. In the initial part learned to import the pre-trained models from Keras and performed the preprocessing steps required for the Models. 
 
 2. In the second part learned to change the pre-trained models as per our requirements and train them to learn our dataset.
+
+# OpenCV - The Computer Vision Library
+
+OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source Apache 2 License.
+
+1. Learned to use OpenCV to read Images/Videos from your Machine.
+2. Performed transformations in the Image like Resizing, Color Channels, etc.
+4. Drawing bounding boxes, Contour Detection, Edge Detection, Blurring & Smoothning Techniques, and Masking Images.
+5. Also plotted the Histograms for gray and color channels.
