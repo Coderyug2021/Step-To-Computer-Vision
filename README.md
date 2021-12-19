@@ -29,3 +29,11 @@ Discussed the most popular and state-of-the-Art(SoTA) Computer Vision models i.e
 5. ResNet
 6. Xception
 7. SENet
+
+# Transfer Learning : Using Pretrained CNN models for custom task
+
+Used some of the well-known models like the ResNet and Xception. These models were pre-trained on the imagenet Dataset. 
+
+1. In the initial part learned to import the pre-trained models from Keras and performed the preprocessing steps required for the Models. 
+
+2. In the second part learned to change the pre-trained models as per our requirements and train them to learn our dataset.
