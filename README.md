@@ -46,3 +46,6 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
 2. Performed transformations in the Image like Resizing, Color Channels, etc.
 4. Drawing bounding boxes, Contour Detection, Edge Detection, Blurring & Smoothning Techniques, and Masking Images.
 5. Also plotted the Histograms for gray and color channels.
+
+# Horse And Human Dataset
+Picked up a dataset from kaggle called the Horse and Human, coded a CNN model to learn the dataset and differentiate between Horse and Humans.
